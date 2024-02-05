@@ -8,3 +8,6 @@ Dataset source: https://beta.data.gov.sg/datasets/d_8b84c4ee58e3cfc0ece0d773c8ca
 - Determine key factors that affected the flat resale price
 - Creating regression model to predict the resale price
 - Developing segmentation model to categorize each flat affordability
+
+*Nb
+Utilizing a new dataset post-model development, Power BI constructs a user-friendly and accessible dashboard interface, facilitating seamless access to results for users.
